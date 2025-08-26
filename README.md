@@ -4,13 +4,20 @@ Your AI-powered personal trainer & nutritionist
 An intelligent fitness platform that creates personalized workouts, tailored diet plans, and real-time interactive coaching. Built with Next.js, TailwindCSS, Gemini AI, Convex, and Vapi Voice Assistant, this app delivers fitness guidance anytime, anywhere. 🚀
 
 ✨ Features
-✅ AI Fitness Coach – Chat or talk with your fitness trainer in real-time
+✅ AI Fitness Coach – Chat or talk with your fitness trainer in real-time 
+
 ✅ Custom Workouts – Programs tailored to your goals, fitness level, and injuries
+
 ✅ Personalized Diet Plans – Smart meal suggestions with allergy & preference support 🥗
+
 ✅ Voice Assistant (Vapi) – Talk naturally, get instant advice 🎙
+
 ✅ Progress Tracking – Save & update routines in real-time with Convex DB
+
 ✅ On-Demand Program Creation – New workouts & diet plans instantly with Gemini AI
+
 ✅ Secure Authentication – Login via Google, GitHub, or Email (Clerk Auth) 🔐
+
 ✅ Responsive Design – Clean, modern UI powered by Tailwind + Shadcn UI
 
 🖥 Tech Stack
